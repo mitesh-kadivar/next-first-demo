@@ -1,0 +1,133 @@
+{
+    "events": [
+        {
+            "id":1,
+            "title": "Event 1",
+            "description": "Description 1",
+            "category": "sports",
+            "date": "April 25"
+        },
+        {
+            "id":2,
+            "title": "Event 2",
+            "description": "Description 2",
+            "category": "science",
+            "date": "May 05"
+        },
+        {
+            "id":3,
+            "title": "Event 3",
+            "description": "Description 3",
+            "category": "sports",
+            "date": "Mar 25"
+        },
+        {
+            "id":4,
+            "title": "Event 4",
+            "description": "Description 4",
+            "category": "technology",
+            "date": "Jul 18"
+        },
+        {
+            "id":5,
+            "title": "Event 5",
+            "description": "Description 5",
+            "category": "science",
+            "date": "Nov 25"
+        },
+        {
+            "id":6,
+            "title": "Event 6",
+            "description": "Description 6",
+            "category": "food",
+            "date": "Dec 25"
+        },
+        {
+            "id":7,
+            "title": "Event 7",
+            "description": "Description 7",
+            "category": "movies",
+            "date": "Sep 09"
+        },
+        {
+            "id":8,
+            "title": "Event 8",
+            "description": "Description 8",
+            "category": "sports",
+            "date": "Jun 11"
+        },
+        {
+            "id":9,
+            "title": "Event 9",
+            "description": "Description 9",
+            "category": "movies",
+            "date": "Oct 12"
+        },
+        {
+            "id":10,
+            "title": "Event 10",
+            "description": "Description 10",
+            "category": "sports",
+            "date": "Jan 13"
+        }
+    ],
+    "dashboard": 
+    {
+        "likes": 250,
+        "posts": 50,
+        "followers": 500,
+        "following": 225
+    },
+    "news": [
+        {
+            "id": 1,
+            "title": "News Article 1",
+            "description": "Article description for 1 title",
+            "category": "sports"
+        },
+        {
+            "id": 2,
+            "title": "News Article 2",
+            "description": "Article description for 2 title",
+            "category": "politics"
+        },
+        {
+            "id": 3,
+            "title": "News Article 3",
+            "description": "Article description for 3 title",
+            "category": "movies"
+        },
+        {
+            "id": 4,
+            "title": "News Article 4",
+            "description": "Article update description for 4 title",
+            "category": "sports"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Project 1",
+            "price": 1050,
+            "description": "Project 1 description"
+        },
+        {
+            "id": 2,
+            "title": "Project 2",
+            "price": 2030,
+            "description": "Project 2 description"
+        },
+        {
+            "id": 3,
+            "title": "Project 3",
+            "price": 3500,
+            "description": "Project 3 description"
+        },
+        {
+            "id": 4,
+            "title": "Project 4",
+            "price": 4000,
+            "description": "Project 4 description"
+        }
+    ]
+}
